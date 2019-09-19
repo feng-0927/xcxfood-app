@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/class/class",
+    "pages/person/person",
+    "pages/person/userInfo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#22b573",
+    "navigationBarTitleText": "菜谱",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#626567",
+    "selectedColor": "#22b573",
+    "backgroundColor": "white",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "image/home_nor.png",
+        "selectedIconPath": "image/home_sel.png"
+      },
+      {
+        "pagePath": "pages/class/class",
+        "text": "分类",
+        "iconPath": "image/class_nor.png",
+        "selectedIconPath": "image/class_sel.png"
+      },
+      {
+        "pagePath": "pages/person/person",
+        "text": "个人",
+        "iconPath": "image/person_nor.png",
+        "selectedIconPath": "image/person_sel.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}

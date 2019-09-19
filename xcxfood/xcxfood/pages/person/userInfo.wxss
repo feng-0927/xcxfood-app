@@ -1,0 +1,40 @@
+.user{
+    padding-top:50rpx;
+  }
+  .avatar{
+    margin-bottom:20rpx;
+    overflow: hidden;
+  }
+  
+  .avatar image{
+    border-radius: 100%;
+  }
+  
+  .user .avatar{
+      text-align:center;
+  }
+  
+  .user .page__title{
+      width:200rpx;
+      height:200rpx;
+      margin:0 auto;
+  }
+  
+  .avatar image{
+      width:100%;
+      height:100%;
+  }
+  
+  .user .nickname{
+      text-align:center;
+  }
+  
+  .weui-cell_input{
+    padding-top:16px!important;
+    padding-bottom:16px!important;
+  }
+
+  .weui-btn-area{
+    position: relative;
+    top: -50px;
+  }

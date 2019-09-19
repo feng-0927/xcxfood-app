@@ -1,0 +1,39 @@
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:06] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:07] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-21 15:07] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc' at line 1
+[2019-08-22 09:53] SQL错误：Unknown column 'admin' in 'where clause'
+[2019-08-24 11:46] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0,20' at line 1
+[2019-08-24 11:46] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0,20' at line 1
+[2019-08-24 11:46] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0,20' at line 1
+[2019-08-24 11:59] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0,20' at line 1
+[2019-08-26 09:34] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id desc' at line 1
+[2019-08-26 09:34] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id desc' at line 1
+[2019-09-05 12:00] SQL错误：Column count doesn't match value count at row 1
+[2019-09-05 12:02] SQL错误：Column count doesn't match value count at row 1
+[2019-09-05 12:02] SQL错误：Column count doesn't match value count at row 1
+[2019-09-09 09:15] SQL错误：Incorrect integer value: '' for column 'ordertime' at row 1
+[2019-09-09 09:15] SQL错误：Incorrect integer value: '' for column 'ordertime' at row 1
+[2019-09-09 09:17] SQL错误：Incorrect integer value: '' for column 'ordertime' at row 1
+[2019-09-16 12:31] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM pre_user AS user WHERE openid = 'Array'' at line 1
+[2019-09-16 12:32] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM pre_user AS user WHERE openid = 'Array'' at line 1
+[2019-09-16 12:32] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM pre_user AS user WHERE openid = 'Array'' at line 1
+[2019-09-16 12:33] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM pre_user AS user WHERE openid = 'Array'' at line 1
+[2019-09-16 12:33] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM pre_user AS user WHERE openid = 'o81EA0d4UKnbkG0t5m6PZfnFQuiY'' at line 1
+[2019-09-16 12:34] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM pre_user AS user WHERE openid = 'o81EA0d4UKnbkG0t5m6PZfnFQuiY'' at line 1
+[2019-09-16 12:34] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM pre_user AS user WHERE openid = 'o81EA0d4UKnbkG0t5m6PZfnFQuiY'' at line 1
+[2019-09-17 17:12] SQL错误：Unknown column 'mobile' in 'field list'
+[2019-09-17 17:12] SQL错误：Unknown column 'mobile' in 'field list'
+[2019-09-17 17:19] SQL错误：Unknown column 'mobile' in 'field list'

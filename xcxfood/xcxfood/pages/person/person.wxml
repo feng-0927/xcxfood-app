@@ -1,0 +1,44 @@
+<view class="user" wx:if="{{user}}">
+  <image bindtap="updateAvatar" wx:if="{{user.avatar}}" class="avatar" src="{{CDN + user.avatar}}" background-size="cover"></image>
+  <view bindtap="updateAvatar" wx:else class="avatar">
+    <open-data type="userAvatarUrl" background-size="cover"></open-data>
+  </view>
+  <text class="user-info">{{user.nickname}}</text>
+</view>
+<view wx:else class="user">
+    <view class="avatar">
+      <open-data type="userAvatarUrl" background-size="cover"></open-data>
+    </view>
+    <button bindgetuserinfo="userInfo" open-type="getUserInfo" class="weui-btn" type="primary">登录/注册</button>
+</view>
+
+<navigator url="/pages/person/userInfo" wx:if="{{user}}" class="myitem">
+  <image src="../../image/about.png"></image>
+  <text>基本资料</text>
+</navigator>
+<view wx:else class="myitem ">
+  <image src="../../image/about.png"></image>
+  <text>基本资料</text>
+</view>
+
+<view class="myitem ">
+  <image src="../../image/about.png"></image>
+  <text>我的收藏</text>
+</view>
+
+<view wx:if="{{user}}" class="myitem" bindtap="clearCache">
+  <image src="../../image/cache.png"></image>
+  <text>清除缓存</text>
+</view>
+
+<button open-type="share">
+  <view class="myitem ">
+    <image src="../../image/share.png"></image>
+        <text class="link">分享给好友</text>
+  </view>
+</button>
+
+<view class="logout">
+  <text>退出登录</text>
+</view>
+<loading hidden="{{loadingHidden}}">加载中...</loading>

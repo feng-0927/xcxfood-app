@@ -1,0 +1,52 @@
+<view>
+  <!-- 滑动菜谱banner -->
+  <view>
+    <swiper class="activity" indicator-dots="{{indicatorDots}}">
+      <block wx:for="{{imgUrls}}">
+        <swiper-item>
+          <image src="{{item}}" width="355" height="155" />
+        </swiper-item>
+      </block>
+    </swiper>
+  </view>
+  <!-- 首页菜谱菜单 -->
+  <view class='meunList'>
+    <view class='meunItem'>
+      <image src="{{meunList[0]}}"></image>
+      <text>材料商城</text>
+    </view>
+    <view class='meunItem'>
+      <image src="{{meunList[1]}}"></image>
+      <text>人气社区</text>
+    </view>
+    <view class='meunItem'>
+      <image src="{{meunList[2]}}"></image>
+      <text>菜篮提醒</text>
+    </view>
+    <view class='meunItem'>
+      <image src="{{meunList[3]}}"></image>
+      <text>视频教程</text>
+    </view>
+  </view>
+  <!-- 菜谱推荐模块 -->
+  <view class="recommend">
+    <image src="{{meunList[4]}}"></image>
+    <text>算法推荐</text>
+  </view>
+  <!-- 算法推荐的菜谱列表 -->
+  <view>
+    <scroll-view scroll-y="true" class="scoll-h">
+      <block wx:for="{{[1,2,3,4,5,6,7,8]}}" wx:key="*this">
+        <view class="item-ans">
+          <view class="avatar">
+            <image class="img" src="../../image/recipe06.jpg"></image>
+          </view>
+          <view class="expertInfo">
+            <view class="name">鱼香肉丝</view>
+            <view class="tag">热菜</view>
+          </view>
+        </view>
+      </block>
+    </scroll-view>
+  </view>
+</view>

@@ -1,0 +1,80 @@
+.user {
+  width: 100%;
+  height: 380rpx;
+  background: #22b573;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user .avatar {
+  width: 220rpx;
+  height: 220rpx;
+  border-radius: 80%;
+  z-index: 99;
+  background-color: white;
+  overflow: hidden;
+  margin-bottom:10rpx;
+}
+
+.user .user-info {
+  margin-top: 20rpx;
+}
+
+.myitem {
+  width: 750rpx;
+  height: 120rpx;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.myitem image {
+  width: 50rpx;
+  height: 50rpx;
+  margin-left: 40rpx;
+}
+
+.myitem text {
+  width: 450rpx;
+  height: 40rpx;
+  font-size: 40rpx;
+  margin-left: 40rpx;
+}
+
+.logout {
+  border-radius: 15rpx;
+  background-color: red;
+  margin: 100rpx;
+  color: white;
+  border: 1rpx solid black;
+  height: 80rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.logout text {
+  text-align: center;
+  font-size: 35rpx;
+  height: 80rpx;
+  vertical-align: center;
+  line-height: 80rpx;
+}
+
+
+button{
+  background-color:#22b573!important;
+}
+
+.link {
+  text-align: left;
+  color: #000;
+  height: 80%!important;
+  }
+  
